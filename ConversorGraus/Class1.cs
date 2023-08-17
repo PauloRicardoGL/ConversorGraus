@@ -12,7 +12,7 @@ namespace ConversorGraus
         public double farehnheit { get; set; }
         public double kelvin { get; set; }
 
-        public ClassConvert(double celcius, double farehnheit, double kalvin) 
+        /*public ClassConvert(double celcius, double farehnheit, double kalvin) 
         {
             this.celsius = celcius;
             this.farehnheit = farehnheit;
@@ -43,6 +43,6 @@ namespace ConversorGraus
         public double calcKelvinCon()
         {
 
-        }
+        }*/
     }
 }
